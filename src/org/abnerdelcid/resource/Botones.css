@@ -1,0 +1,51 @@
+.Menu-bar{
+    
+    -fx-background-color: #FFFEFC;
+    -fx-opacity: 0.5;
+    -fx-border-width: 2.0;
+}
+.buttom1{
+    -fx-background-color: transparent;
+}
+
+.bunttom2{
+    -fx-background-color: #E6801C;
+    -fx-border-color: black;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+.button3:hover{
+    -fx-background-color: #5D9E3B;
+    -fx-font-size:22px;
+    -fx-effect: dropshadow(three-pass-box,black,20,0,0,0)
+}
+
+.button4:hover{
+    -fx-font-sixe:22px;
+}
+
+.table-view .comun-header,
+.table-view .comun-header-background.filler{
+    -fx-cell-size: 20;
+    -fx-background-color: #5D9E3B;
+}
+
+.table-row-cell:selected{
+    -fx-background-color: #F2B01E;
+    
+}
+
+.bunttomTran{
+    -fx-background-color: transparent;
+    -fx-border-color: #FFFEFC;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+
+.buttonGrande:hover{
+
+    -fx-font-size:22px;
+    -fx-effect: dropshadow(three-pass-box,black,20,0,0,0)
+}
